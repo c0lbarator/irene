@@ -24,7 +24,7 @@ def start(core:VACore):
         "require_online": False,
 
         "default_options": {
-            "speaker": "xenia",
+            "speaker": "baya",
             "threads": 4,
             "sample_rate": 24000,
             "put_accent": True,
